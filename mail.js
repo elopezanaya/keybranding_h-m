@@ -9,7 +9,7 @@ var email   = require("./node_modules/emailjs/email");
 
 var server  = email.server.connect({
    user:    "elopezanaya@gmail.com", 
-   password:"r34dy pl4y3r j0", 
+   password:"", 
    host:    "smtp.gmail.com", 
    ssl:     true
 
